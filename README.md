@@ -29,16 +29,20 @@ A personal portfolio website built as part of a **Web Development Internship Ski
 | Deployment | GitHub Pages (`gh-pages`) |
 
 ---
-
 ## 📁 Project Structure
+
+```
 raen-portfolio/
+│
 ├── public/
+│
 ├── src/
 │   ├── assets/
 │   │   ├── picme.png
 │   │   ├── UP_logo.png
 │   │   ├── Pisay_logo.png
 │   │   └── Lazi_logo.png
+│   │
 │   ├── components/
 │   │   ├── Sidebar.jsx
 │   │   ├── Home.jsx
@@ -48,13 +52,17 @@ raen-portfolio/
 │   │   ├── Education.jsx
 │   │   ├── Hobbies.jsx
 │   │   └── Contact.jsx
+│   │
 │   ├── App.jsx
 │   ├── App.css
 │   └── main.jsx
+│
 ├── index.html
 ├── vite.config.js
-└── package.json
-
+├── eslint.config.js
+├── package.json
+└── package-lock.json
+```
 ## 🌍 Live Website
 
 > **[https://rclumacad.github.io/raen-portfolio](https://rclumacad.github.io/raen-portfolio)**
