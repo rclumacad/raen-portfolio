@@ -1,3 +1,9 @@
+## 🌍 Live Website
+
+> **[https://rclumacad.github.io/raen-portfolio](https://rclumacad.github.io/raen-portfolio)**
+
+Deployed on **GitHub Pages** via the `gh-pages` branch.
+
 ## 📌 Description
 
 A personal portfolio website built as part of a **Web Development Internship Skills Showcase Challenge**. It showcases my projects, technical skills, educational background, and contact information — featuring a dark-themed sidebar layout, smooth tab navigation, per-section color accenting, and a fully working contact form. Built entirely with React and Vite, deployed via GitHub Pages.
